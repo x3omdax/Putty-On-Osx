@@ -1,3 +1,4 @@
+![alt tag](https://screenshots.en.sftcdn.net/en/scrn/20000/20678/putty-05-535x535.jpg)
 # Putty-On-Osx
 Putty-On-Osx will allow you to install putty for : 
 macOS Sierra v10.12
